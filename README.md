@@ -1,4 +1,5 @@
 # Stock-Sentiment-Analysis-Finviz
+Stack: NLTK, BeatifulSoup, matplot
 Scrape news headlines from Finviz for FB and TSLA then apply sentiment analysis to generate investment insight.
 Project Description:
 
